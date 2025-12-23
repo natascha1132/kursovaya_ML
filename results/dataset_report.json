@@ -1,0 +1,18 @@
+{
+    "dataset_info": {
+        "total_classes": 4,
+        "classes": [
+            "норма",
+            "пневмония",
+            "туберкулез",
+            "новообразование"
+        ],
+        "image_size": 320
+    },
+    "paths": {
+        "train_images": "C:\\Users\\natas\\PycharmProjects\\Kursovaya\\dataset\\images\\train",
+        "train_labels": "C:\\Users\\natas\\PycharmProjects\\Kursovaya\\dataset\\labels\\train",
+        "val_images": "C:\\Users\\natas\\PycharmProjects\\Kursovaya\\dataset\\images\\val",
+        "val_labels": "C:\\Users\\natas\\PycharmProjects\\Kursovaya\\dataset\\labels\\val"
+    }
+}
